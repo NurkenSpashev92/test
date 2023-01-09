@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block stylesheets %}
+    {{ encore_entry_link_tags('customerApp') }}
+{% endblock %}
+
+{% block javascript %}
+    {{ parent() }}
+    {{  encore_entry_script_tags('customerApp') }}
+{% endblock %}
+
+{% block title %}Luxus Company{% endblock %}
+
+{% block body %}
+ <div id="customer-app"></div>
+{% endblock %}

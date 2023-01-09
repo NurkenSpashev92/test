@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "label": "Plantación",
+      "items": [
+        {
+          "label": "Información",
+          "to": "/"
+        },
+        {
+          "label": "Variedades y empaque",
+          "to": "/"
+        },
+        {
+          "label": "Standing",
+          "to": "/"
+        },
+        {
+          "label": "Dispo",
+          "to": "/"
+        },
+        {
+          "label": "Subasta",
+          "to": "/"
+        },
+        {
+          "label": "Transacciones",
+          "to": "/"
+        },
+        {
+          "label": "Facturas",
+          "to": "/"
+        },
+        {
+          "label": "Estado de cuenta",
+          "to": "/"
+        },
+        {
+          "label": "Pagos",
+          "to": "/"
+        },
+        {
+          "label": "Mensajes",
+          "to": "/"
+        }
+      ]
+    }
+  ],
+  "authorization": [
+    {
+      "id": 1,
+      "email": "",
+      "password": ""
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "siddikov2007dev",
+      "id": 2
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "wdwdw",
+      "id": 3
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "xojiakbar",
+      "confirmPassword": "xojiakbar",
+      "id": 4
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 5
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "xojiakbar",
+      "id": 6
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "xoji123",
+      "id": 7
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "xojiakbar123",
+      "id": 8
+    },
+    {
+      "email": "siddikov.wr2007@gmail.com",
+      "password": "123",
+      "id": 9
+    }
+  ]
+}

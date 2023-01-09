@@ -1,0 +1,46 @@
+{
+    "devDependencies": {
+        "@babel/core": "^7.17.0",
+        "@babel/preset-env": "^7.16.0",
+        "@hotwired/stimulus": "^3.0.0",
+        "@symfony/stimulus-bridge": "^3.2.0",
+        "@symfony/ux-vue": "file:vendor/symfony/ux-vue/assets",
+        "@symfony/webpack-encore": "^4.0.0",
+        "@vuelidate/core": "^2.0.0",
+        "@vuelidate/validators": "^2.0.0",
+        "axios": "^1.2.2",
+        "babel-loader": "^9.1.0",
+        "core-js": "^3.23.0",
+        "css-loader": "^6.7.3",
+        "html-webpack-plugin": "^5.5.0",
+        "node-sass": "^8.0.0",
+        "primeflex": "^3.3.0",
+        "primeicons": "^6.0.1",
+        "primevue": "^3.21.0",
+        "regenerator-runtime": "^0.13.9",
+        "sass": "^1.57.1",
+        "sass-loader": "^13.2.0",
+        "vue-html-loader": "^1.2.4",
+        "vue-loader": "^17.0.1",
+        "vue-router": "^4.0.13",
+        "vue-style-loader": "^4.1.3",
+        "vue-template-compiler": "^2.7.14",
+        "webpack": "^5.74.0",
+        "webpack-cli": "^4.10.0",
+        "webpack-notifier": "^1.15.0"
+    },
+    "license": "UNLICENSED",
+    "private": true,
+    "scripts": {
+        "dev-server": "encore dev-server",
+        "json-start": "json-server --watch db.json",
+        "dev": "encore dev",
+        "watch": "encore dev --watch",
+        "build": "encore production --progress"
+    },
+    "dependencies": {
+        "json-server": "^0.17.1",
+        "prismjs": "^1.29.0",
+        "vue": "^3.2.36"
+    }
+}
